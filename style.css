@@ -1,0 +1,35 @@
+/* style.css */
+
+.title,
+.SendRecipe {
+  font-family: "Lucida Console", Monospace;
+  font-weight: bold;
+}
+
+.title{
+  font-size: 28px;
+  text-align: center;
+  background-color: orange;
+  color: red;
+}
+
+.SendRecipe{
+  font-size: 23px;
+  position: absolute;
+  top: 15%;
+  right: 15%;
+}
+
+#confirm-button{
+  position: absolute;
+  top: 70%;
+  right: 15%;
+}
+
+img {
+  height: auto;
+  width: 300px;
+  position: relative;
+  top: 15%;
+  left: 15%;
+}
